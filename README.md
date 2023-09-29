@@ -8,3 +8,6 @@ From the quantum of light (the photon) to the quantum of sound (the phonon) ever
 2. Install [jupyter](https://jupyter.org/install) with `conda install -c conda-forge jupyterlab`
 3. Install [qutip](http://qutip.org/docs/latest/installation.html) with `conda install -c conda-forge qutip`
 4. Install [matplotlib](https://matplotlib.org/stable/users/installing.html) with `conda install -c conda-forge matplotlib`
+
+## Google Colab
+[Google Colab]("https://colab.research.google.com/")

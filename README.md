@@ -10,4 +10,4 @@ From the quantum of light (the photon) to the quantum of sound (the phonon) ever
 4. Install [matplotlib](https://matplotlib.org/stable/users/installing.html) with `conda install -c conda-forge matplotlib`
 
 ## Google Colab
-You can run this notebook on [Google Colab]("https://colab.research.google.com"). 
+You can run this notebook on [Google Colab](https://colab.research.google.com). 
